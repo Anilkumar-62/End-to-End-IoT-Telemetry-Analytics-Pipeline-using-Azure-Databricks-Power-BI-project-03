@@ -1,0 +1,2 @@
+# End-to-End-IoT-Telemetry-Analytics-Pipeline-using-Azure-Databricks-Power-BI-project-03
+End-to-end real-time IoT telemetry analytics pipeline built on Azure, leveraging Event Hub for streaming ingestion, Databricks Structured Streaming for transformation, Delta Lake on ADLS Gen2 for scalable storage, and Power BI for interactive visualization, enabling near real-time device monitoring and analytics.
